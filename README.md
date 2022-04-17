@@ -1,6 +1,6 @@
 # DIO desafio de projeto de git/github
-meu primeiro repositorio criado para o desafio de projeto
- primeiros passos
+primeiro repositorio criado para o desafio de projeto
+
  # Links
  [Sintaxe basicas de markdown](https://www.markdownguide.org/basic-syntax/)
  
